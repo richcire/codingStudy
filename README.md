@@ -12,3 +12,4 @@
 ## 1월 16일
 - [금고털이](https://softeer.ai/practice/info.do?idx=1&eid=395) 그리디 level2
 - [전광판](https://softeer.ai/practice/info.do?idx=1&eid=624) 구현 level2
+- [성적평균](https://softeer.ai/practice/info.do?idx=1&eid=389&sw_prbl_sbms_sn=100153) 구현 level3
