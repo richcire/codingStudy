@@ -8,3 +8,7 @@
 - [회의실 배정](https://www.acmicpc.net/problem/1931) 그리디 실버 1
 - [경로 찾기](https://www.acmicpc.net/problem/11403) DFS 실버 1
 - [미로탐색](https://www.acmicpc.net/problem/2178) BFS 실버 1
+
+## 1월 16일
+- [금고털이](https://softeer.ai/practice/info.do?idx=1&eid=395) 그리디 level2
+- [전광판](https://softeer.ai/practice/info.do?idx=1&eid=624) 구현 level2
