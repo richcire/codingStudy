@@ -13,3 +13,10 @@
 - [금고털이](https://softeer.ai/practice/info.do?idx=1&eid=395) 그리디 level2
 - [전광판](https://softeer.ai/practice/info.do?idx=1&eid=624) 구현 level2
 - [성적평균](https://softeer.ai/practice/info.do?idx=1&eid=389&sw_prbl_sbms_sn=100153) 구현 level3
+
+## 1월 18일
+- [NBA 농구](https://www.acmicpc.net/problem/2852) 구현 실버3
+- [01타일](https://www.acmicpc.net/problem/1904) DP 실버3
+- [유기농 배추](https://www.acmicpc.net/problem/1012) BFS/DFS 실버2
+- [IF문 좀 대신 써줘](https://www.acmicpc.net/problem/19637) 이진탐색 실버3
+- [영단어 암기는 괴로워](https://www.acmicpc.net/problem/20920) 문자열 실버3
