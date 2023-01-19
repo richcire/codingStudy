@@ -20,3 +20,10 @@
 - [유기농 배추](https://www.acmicpc.net/problem/1012) BFS/DFS 실버2
 - [IF문 좀 대신 써줘](https://www.acmicpc.net/problem/19637) 이진탐색 실버3
 - [영단어 암기는 괴로워](https://www.acmicpc.net/problem/20920) 문자열 실버3
+
+## 1월 19일
+ - [나무자르기](https://www.acmicpc.net/problem/2805) 이진탐색 실버2
+ - [랭킹전 대기열](https://www.acmicpc.net/problem/20006) 구현 실버2
+ - [수 이어 쓰기](https://www.acmicpc.net/problem/20006) 문자열 실버3
+ - [이항 계수2](https://www.acmicpc.net/problem/11051) DP 실버2
+ - [숨박꼭질 3](https://www.acmicpc.net/problem/13549) BFS 골드5
