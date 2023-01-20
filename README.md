@@ -27,3 +27,10 @@
  - [수 이어 쓰기](https://www.acmicpc.net/problem/20006) 문자열 실버3
  - [이항 계수2](https://www.acmicpc.net/problem/11051) DP 실버2
  - [숨박꼭질 3](https://www.acmicpc.net/problem/13549) BFS 골드5
+
+## 1월 20일
+ - [용돈 관리](https://www.acmicpc.net/problem/6236) 이진탐색 실버2
+ - [비슷한 단어](https://www.acmicpc.net/problem/2607) 문자열 실버3
+ - [한 줄로 서기](https://www.acmicpc.net/problem/1138) 구현 실버2
+ - [이친수](https://www.acmicpc.net/problem/2193) DP 실버3
+ - [숨박꼭질 4](https://www.acmicpc.net/problem/13913) BFS 골드4
