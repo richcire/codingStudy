@@ -34,3 +34,11 @@
  - [한 줄로 서기](https://www.acmicpc.net/problem/1138) 구현 실버2
  - [이친수](https://www.acmicpc.net/problem/2193) DP 실버3
  - [숨박꼭질 4](https://www.acmicpc.net/problem/13913) BFS 골드4
+ 
+## 1월 22일
+ - 1,2,3 더하기
+ - 모든 순열
+
+## 1월 24일
+ - 랜선 자르기
+ - 제곱수의 합
