@@ -42,3 +42,10 @@
 ## 1월 24일
  - 랜선 자르기
  - 제곱수의 합
+
+## 1월 25일
+- [팰린드롬 만들기](https://www.acmicpc.net/problem/1213) 문자열 실버3
+
+## 1월 26일
+- [가장 큰 증가 부분 수열](https://www.acmicpc.net/problem/11055) DP 실버2
+- [부분 수열의 합](https://www.acmicpc.net/problem/1182) 수열 실버2 
