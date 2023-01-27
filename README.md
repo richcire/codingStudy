@@ -49,3 +49,9 @@
 ## 1월 26일
 - [가장 큰 증가 부분 수열](https://www.acmicpc.net/problem/11055) DP 실버2
 - [부분 수열의 합](https://www.acmicpc.net/problem/1182) 수열 실버2 
+
+## 1월 27일
+- [BOJ 거리](https://www.acmicpc.net/problem/12026) DP 실버1
+- [기타리스트](https://www.acmicpc.net/problem/1495) DP 실버1
+- [로봇 청소기](https://www.acmicpc.net/problem/14503) 구현 골드5
+- [타노스](https://www.acmicpc.net/problem/20310) 문자열 실버 3
