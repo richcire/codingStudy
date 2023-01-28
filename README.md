@@ -55,3 +55,10 @@
 - [기타리스트](https://www.acmicpc.net/problem/1495) DP 실버1
 - [로봇 청소기](https://www.acmicpc.net/problem/14503) 구현 골드5
 - [타노스](https://www.acmicpc.net/problem/20310) 문자열 실버 3
+
+## 1월 28일
+- [한국이 그리울 땐 서버에 접속하지](https://www.acmicpc.net/problem/9996) 문자열 실버3
+- [스티커](https://www.acmicpc.net/problem/9465) DP 실버1
+- [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) 구현 골드5
+- [최단경로](https://www.acmicpc.net/problem/1753) 다익스트라 골드4
+- [특정한 최단경로](https://www.acmicpc.net/problem/1504) 다익스트라 골드4
