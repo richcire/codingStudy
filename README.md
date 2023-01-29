@@ -62,3 +62,6 @@
 - [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) 구현 골드5
 - [최단경로](https://www.acmicpc.net/problem/1753) 다익스트라 골드4
 - [특정한 최단경로](https://www.acmicpc.net/problem/1504) 다익스트라 골드4
+
+## 1월 29일
+- [상자넣기](https://www.acmicpc.net/problem/1965) DP 실버2
