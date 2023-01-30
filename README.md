@@ -65,3 +65,9 @@
 
 ## 1월 29일
 - [상자넣기](https://www.acmicpc.net/problem/1965) DP 실버2
+
+## 1월 30일
+- [해킹](https://www.acmicpc.net/problem/10282) 다익스트라 공드4
+- [가희와 키워드](https://www.acmicpc.net/problem/22233) 문자열 실버2
+- [동물원](https://www.acmicpc.net/problem/1309) DP 실버1
+- [빗물](https://www.acmicpc.net/problem/14719) 구현 골드5
