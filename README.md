@@ -71,3 +71,9 @@
 - [가희와 키워드](https://www.acmicpc.net/problem/22233) 문자열 실버2
 - [동물원](https://www.acmicpc.net/problem/1309) DP 실버1
 - [빗물](https://www.acmicpc.net/problem/14719) 구현 골드5
+
+## 1월 31일
+- [비밀번호 발음하기](https://www.acmicpc.net/problem/4659) 문자열 실버5
+- [0 만들기](https://www.acmicpc.net/problem/7490) 구현 골드5
+- [연속합](https://www.acmicpc.net/problem/1912) DP 실버2
+- [LCS](https://www.acmicpc.net/problem/9251) DP 골드 4
