@@ -77,3 +77,9 @@
 - [0 만들기](https://www.acmicpc.net/problem/7490) 구현 골드5
 - [연속합](https://www.acmicpc.net/problem/1912) DP 실버2
 - [LCS](https://www.acmicpc.net/problem/9251) DP 골드 4
+
+## 2월 1일
+- [카드 구하기](https://www.acmicpc.net/problem/11052) DP 실버1
+- [추월](https://www.acmicpc.net/problem/2002) 문자열 실버1
+- [기차가 어둠을 헤치고](https://www.acmicpc.net/problem/15787) 구현 실버2
+- [LCS2](https://www.acmicpc.net/problem/9252) 다익스트라 골드4
