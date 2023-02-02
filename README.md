@@ -83,3 +83,6 @@
 - [추월](https://www.acmicpc.net/problem/2002) 문자열 실버1
 - [기차가 어둠을 헤치고](https://www.acmicpc.net/problem/15787) 구현 실버2
 - [LCS2](https://www.acmicpc.net/problem/9252) 다익스트라 골드4
+
+## 2월 2일
+- [쉬운 계단 수](https://www.acmicpc.net/problem/10844) DP 실버1
