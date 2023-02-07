@@ -86,3 +86,8 @@
 
 ## 2월 2일
 - [쉬운 계단 수](https://www.acmicpc.net/problem/10844) DP 실버1
+
+## 2월 7
+- [오목](https://www.acmicpc.net/problem/2615) 구현 실버1
+- [단어 뒤집기 2](https://www.acmicpc.net/problem/17413) 문자열 실버3
+- [RGB거리](https://www.acmicpc.net/problem/1149) DP 실버 1
