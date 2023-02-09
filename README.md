@@ -87,7 +87,14 @@
 ## 2월 2일
 - [쉬운 계단 수](https://www.acmicpc.net/problem/10844) DP 실버1
 
-## 2월 7
+## 2월 7일
 - [오목](https://www.acmicpc.net/problem/2615) 구현 실버1
 - [단어 뒤집기 2](https://www.acmicpc.net/problem/17413) 문자열 실버3
 - [RGB거리](https://www.acmicpc.net/problem/1149) DP 실버 1
+
+## 2월 9일
+- [포도주 시식](https://www.acmicpc.net/problem/2156) DP 실버1
+- [배열 돌리기 1](https://www.acmicpc.net/problem/16926) 구현 실버1
+- [크로스워드 퍼즐 쳐다보기](https://www.acmicpc.net/problem/3005) 문자열 실버2
+- [블로그](https://www.acmicpc.net/problem/21921) 투포인터(슬라이딩 윈도우) 실버3
+- [선분 위의 점](https://www.acmicpc.net/problem/11663) 이진탐색 실버3
