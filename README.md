@@ -103,3 +103,8 @@
 - [잃어버린 괄호](https://www.acmicpc.net/problem/1541) 그리디 실버2
 - [구간 합 구하기 5](https://www.acmicpc.net/problem/11660) DP 실버1
 - [단지 번호붙이기](https://www.acmicpc.net/problem/2667) BFS 실버1
+
+## 2월 13일
+- [징검다리 건너기](https://www.acmicpc.net/problem/21317) DP 실버1
+- [신입 사원](https://www.acmicpc.net/problem/1946) 그리디 실버 1
+- [봄버맨](https://www.acmicpc.net/problem/16918) 탐색 실버 1
