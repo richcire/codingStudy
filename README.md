@@ -108,3 +108,6 @@
 - [징검다리 건너기](https://www.acmicpc.net/problem/21317) DP 실버1
 - [신입 사원](https://www.acmicpc.net/problem/1946) 그리디 실버 1
 - [봄버맨](https://www.acmicpc.net/problem/16918) 탐색 실버 1
+
+## 2월 14일
+- [기타 레슨](https://www.acmicpc.net/problem/2343) 이진탐색 실버1
